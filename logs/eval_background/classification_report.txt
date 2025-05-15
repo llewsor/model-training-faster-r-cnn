@@ -1,0 +1,13 @@
+              precision    recall  f1-score   support
+
+       Whole      0.829     0.772     0.799       276
+      Broken      0.767     0.944     0.847       269
+  Background      0.000     0.000     0.000        77
+
+    accuracy                          0.751       622
+   macro avg      0.532     0.572     0.549       622
+weighted avg      0.700     0.751     0.721       622
+
+mAP@0.5:       0.821
+mAP@0.5:0.95:   0.570
+Average IoU:   0.837
